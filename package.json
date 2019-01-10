@@ -1,0 +1,21 @@
+{
+  "name": "cordova-onesignal-icon-unimed",
+  "version": "1.0.0",
+  "description": "Copy the icons to Android resources",
+  "cordova": {
+    "id": "cordova-onesignal-icon-unimed",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/univision-mobile/cordova-onesignal-icon-unimed"
+  },
+  "keywords": [
+    "cordova",
+    "onesignal",
+    "icon"
+  ],
+  "license": "Apache-2.0"
+}
